@@ -2,7 +2,9 @@
 
 ## About tha project
 This is a web application based on pure JavaScript integrated with google firebase.
-[Live Demo:](https://khandelwal20sid.github.io/Todo-List-App-With-Firebase/)
+
+Live Demo: [here](https://khandelwal20sid.github.io/Todo-List-App-With-Firebase/)
+
 
 Why Firebase over other databases?
 
